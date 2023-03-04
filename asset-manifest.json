@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsTechWithRealAPI/static/css/main.6d40c3aa.css",
+    "main.js": "/NewsTechWithRealAPI/static/js/main.546deccc.js",
+    "static/js/787.32d91862.chunk.js": "/NewsTechWithRealAPI/static/js/787.32d91862.chunk.js",
+    "index.html": "/NewsTechWithRealAPI/index.html",
+    "main.6d40c3aa.css.map": "/NewsTechWithRealAPI/static/css/main.6d40c3aa.css.map",
+    "main.546deccc.js.map": "/NewsTechWithRealAPI/static/js/main.546deccc.js.map",
+    "787.32d91862.chunk.js.map": "/NewsTechWithRealAPI/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d40c3aa.css",
+    "static/js/main.546deccc.js"
+  ]
+}
